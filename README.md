@@ -1,7 +1,7 @@
   | Nama                      | NRP        |
   |:-------------------------:|:----------:|
   |                           |            |
-  |                           |            |
+  | Adelia Putri Kamaski        | 5025221320 |
   | Indhira Ayu Puspita Ningrum | 5025231316 |
   
   # Otomata - E (Ilham Gurat Adillion) Tugas 1
