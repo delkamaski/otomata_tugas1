@@ -6,8 +6,6 @@
   
   # Otomata - E (Ilham Gurat Adillion) Tugas 1
 
-___
-
 1. [Binary Checker](BinaryChecker.cpp)
    Algoritma:
    1. cek bit dari kiri ke kanan.
