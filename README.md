@@ -1,11 +1,13 @@
-  | Nama | NRP |
-  |:--------:|:--------:|
-  |  |  |
-  |  |  |
-  |  |  |
-  | Indhira Ayu Puspita Ningrum | 5025231316 |
+| Nama                      | NRP        |
+|:-------------------------:|:----------:|
+|                           |            |
+|                           |            |
+|                           |            |
+| Indhira Ayu Puspita Ningrum | 5025231316 |
 
-  <h1 style="text-align: center;">Otomata - E (Ilham Gurat Adillion) Tugas 1</h1>
+<div style="text-align: center;">
+  <h1>Otomata - E (Ilham Gurat Adillion) Tugas 1</h1>
+</div>
   
 ___
 
