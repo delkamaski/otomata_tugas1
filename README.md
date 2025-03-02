@@ -1,13 +1,13 @@
-<center>
-  # Otomata - E (Ilham Gurat Adillion) Tugas 1
-
   | Nama                      | NRP        |
   |:-------------------------:|:----------:|
   |                           |            |
   |                           |            |
   | Indhira Ayu Puspita Ningrum | 5025231316 |
-</center>
+  
+  # Otomata - E (Ilham Gurat Adillion) Tugas 1
+
 ___
 
-1. Binary Checker
-2. Arithmatic Expression Checker
+1. [Binary Checker](BinaryChecker.cpp)
+   
+3. [Arithmatic Expression Checker](ARITHMETIC.PY)
