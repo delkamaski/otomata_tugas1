@@ -102,9 +102,9 @@ def delete_parentheses_recursively(expression):
     return delete_parentheses_recursively(new_expression)
 
 # tes
-expression = "((2+4)+(5+7))*6+5"
+expression = input()
 result = delete_parentheses_recursively(expression)
-print("Operasi awal", expression)
+print("Operasi awal:", expression)
 print("Operasi setelah kena rekursif:", result)
 
 #Last step:
