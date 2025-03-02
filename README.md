@@ -4,6 +4,7 @@
   |  |  |
   |  |  |
   | Indhira Ayu Puspita Ningrum | 5025231316 |
+  
 <div align="center">
   #Otomata - E (Ilham Gurat Adillion) Tugas 1
 </div>
