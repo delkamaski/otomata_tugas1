@@ -18,7 +18,7 @@ bool validate(const string& input, int start) {
 }
 
 bool check(string testcase) {
-    return validate(testcase, 0) || validate(string(testcase.rbegin(), testcase.rend()), 0);
+    return validate(testcase, 0);
 }
 
 int main() {
